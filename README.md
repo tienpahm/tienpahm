@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tien Pham
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front End at CyberSoft
-- 💞️ I’m looking to work in a professional environment 
+- 🌱 I’m Softeare Engineer
 - 📫 Please contact me via phamtienacu@gmail.com
 
 <!---
