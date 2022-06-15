@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tien Pham
 - 👀 I’m interested in programming
-- 🌱 I’m Softeare Engineer
+- 🌱 I’m Software Engineer
 - 📫 Please contact me via phamtienacu@gmail.com
 
 <!---
